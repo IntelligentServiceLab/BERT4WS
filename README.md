@@ -1,5 +1,3 @@
-# BERT4WS
-
 ## 依赖项
 
 - transformers
