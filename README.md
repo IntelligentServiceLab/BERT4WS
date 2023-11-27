@@ -24,3 +24,7 @@
   - 输出文件的名称：在`np.save("data_bert_encoding_APIs", bianma_APIs, allow_pickle=True)`中指定要保存BERT编码的输出文件名称。
 
 + 请确保数据文件是适当格式的CSV文件，并且包含一个名为`'Description'`的列，以便代码能够正确读取文本数据。
+
+
+#### Contact
+Email: 2635814455@qq.com (陈婉君)
